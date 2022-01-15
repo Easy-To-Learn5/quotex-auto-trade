@@ -1,0 +1,32 @@
+{
+  "name": "quotex-auto-trade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "chrome-paths": "^1.0.1",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "ethereumjs-wallet": "^1.0.1",
+    "https-proxy-agent": "^4.0.0",
+    "moment": "^2.29.1",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0",
+    "nodemon": "^2.0.13",
+    "puppeteer-extra": "^3.2.1",
+    "puppeteer-extra-plugin-adblocker": "^2.11.11",
+    "puppeteer-extra-plugin-stealth": "^2.8.1",
+    "puppeteer-page-proxy": "^1.2.8",
+    "readline-sync": "^1.4.10",
+    "user-agents": "^1.0.772"
+  }
+}
